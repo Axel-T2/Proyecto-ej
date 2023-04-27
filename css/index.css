@@ -1,0 +1,18 @@
+/* comentario */
+h1{
+    border-bottom: solid 5px black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+    background-color: darkgray;
+}
+
+.titulardo{
+    text-align: center;
+}
+
